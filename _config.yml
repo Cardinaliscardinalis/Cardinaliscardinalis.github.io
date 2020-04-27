@@ -45,3 +45,10 @@ plugins:
 tag_page_layout: tag_page
 tag_page_dir: tag_page
 tag_permalink_style: pretty
+
+# comments setting
+valine_comment:
+  enable: true
+  leancloud_appid: YhxauA0H5ftv2pG9R3EGeFRx-gzGzoHsz
+  leancloud_appkey: rvb3RGMeB9rlBLDL7WzKnDCI
+  placeholder: "lalala"
